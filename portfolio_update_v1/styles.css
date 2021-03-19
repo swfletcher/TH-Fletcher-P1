@@ -84,10 +84,12 @@ header .profile-image:hover {
   border-radius: 5px;
   display: table;
   margin: 10px auto;
+  
 } 
 .location {
   background-color: #222;
   color: white;
+
 }
 .card {
   margin: 30px;
@@ -166,6 +168,20 @@ a.social:hover {
 }
 .clearfix {
   clear: both;
+}
+
+.sean-ch{
+max-width: 10%;
+position: relative;
+margin-bottom: -17px;
+margin-top: -50px;
+
+}
+
+#experience-header{
+  color: darkgray;
+  font-size: 20vmin;
+ 
 }
 
 /* Styles for larger screens */
